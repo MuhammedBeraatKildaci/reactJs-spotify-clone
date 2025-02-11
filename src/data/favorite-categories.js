@@ -1,4 +1,4 @@
-export default [
+export const favoriteCategories = [
 	{
 		id: 1,
 		title: 'Pop',

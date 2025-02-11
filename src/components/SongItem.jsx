@@ -1,4 +1,4 @@
-import {Icon} from "../Icons";
+import Icon from "../Icons";
 import {NavLink} from "react-router-dom";
 import {useDispatch, useSelector} from "react-redux";
 import { setCurrent } from "stores/player";
