@@ -1,4 +1,4 @@
-import Navbar from 'components/Navbar'
+import Navbar from './Navbar'
 import Home from "views/Home"
 import Search from "views/Search"
 import Collection from "views/Collection"

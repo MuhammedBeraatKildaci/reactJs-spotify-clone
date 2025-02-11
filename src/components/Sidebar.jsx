@@ -1,5 +1,5 @@
 import logo from "img/logo.svg"
-import { Icon } from "../Icon"
+import Icon from "../Icons"
 import Menu from "components/Sidebar/Menu"
 import Playlists from "components/Sidebar/Playlists"
 import DownloadApp from "components/Sidebar/DownloadApp"
